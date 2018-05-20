@@ -1,2 +1,5 @@
 # dsb
 Data Science for Business
+The useful links are as follows and most of them are from New York University.
+  1. http://jattenberg.github.io/PDS-Fall-2013/python.html
+  2. http://data-science-for-biz.com/DSB/Discussion_resources.html
